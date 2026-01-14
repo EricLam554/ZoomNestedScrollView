@@ -1,4 +1,4 @@
-**ZoomNestedScrollView adds pinch‑to‑zoom 🔎 and panning 👆 to standard scrolling, delivering gallery 🖼️ and map‑like 🗺️ interactions for nested content. **
+ZoomNestedScrollView adds pinch‑to‑zoom 🔎 and panning 👆 to standard scrolling, delivering gallery 🖼️ and map‑like 🗺️ interactions for nested content.
 
 Example:
 
