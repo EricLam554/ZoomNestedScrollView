@@ -1,17 +1,17 @@
-ZoomNestedScrollView adds pinch‑to‑zoom 🔎 and panning 👆 to standard scrolling, delivering gallery 🖼️ and map‑like 🗺️ interactions for nested content.
+**ZoomNestedScrollView adds pinch‑to‑zoom 🔎 and panning 👆 to standard scrolling, delivering gallery 🖼️ and map‑like 🗺️ interactions for nested content. **
 
 Example:
 
-1. Add JitPack to settings.gradle:
+1. Add JitPack to settings.gradle: <br />
         dependencyResolutionManagement {
-            repositories {
-                google()
+           repositories { 
+                google() 
                 mavenCentral()
                 maven { url 'https://jitpack.io' }
-            }
+            } 
         }
 
-2. Add the dependency in app/build.gradle:
+2. Add the dependency in app/build.gradle: <br />
        implementation 'com.github.EricLam554:ZoomNestedScrollView:1.0.0'
 
 3. Use:
